@@ -17,7 +17,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Jessica-ovabor/JessiPizzaApi">
-    <img src="./Images/Pizza.jpeg" alt="Logo" width="90%" height="30%">
+    <img src=".![image](https://user-images.githubusercontent.com/74324460/226199650-d95ac024-e275-4ea1-9430-87a636d3266c.png) alt="Logo" width="90%" height="30%">
   </a>
 </div>
 
@@ -131,7 +131,8 @@ To use this API, follow these steps:
 
 <br />
 
-[![AltSchool Pizza Screenshot][altschool-pizza-screenshot]](https://github.com/Ze-Austin/altschool-pizza/blob/main/Images/screenshot.png)
+
+![JessiPizzaApi](https://user-images.githubusercontent.com/74324460/226199883-f55a064e-9c7a-415c-8ef7-9c5aea688061.png)
 
 <br/>
 
@@ -142,7 +143,7 @@ To use this API, follow these steps:
 <!-- License -->
 ## License
 
-Distributed under the MIT License. See <a href="https://github.com/Ze-Austin/altschool-pizza/blob/main/LICENSE">LICENSE</a> for more information.
+Distributed under the MIT License. See <a href="https://github.com/Jessica-ovabor/JessiPizzaApi/blob/main/LICENSE">LICENSE</a> for more information.
 
 <p align="right"><a href="#readme-top">back to top</a></p>
 
@@ -153,7 +154,7 @@ Distributed under the MIT License. See <a href="https://github.com/Ze-Austin/alt
 
 Jessica Ovabor - [@jovabor](https://twitter.com/jovabor) - ovaborjessica85@gmail.com
 
-Project Link: [AltSchool Pizza](https://github.com/Jessica-ovabor/JessiPizzaApi)
+Project Link: [JessiPizzaApi](https://github.com/Jessica-ovabor/JessiPizzaApi)
 
 <p align="right"><a href="#readme-top">back to top</a></p>
 
