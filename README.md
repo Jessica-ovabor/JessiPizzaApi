@@ -17,10 +17,9 @@
 <br />
 <div align="center">
   <a href="https://github.com/Jessica-ovabor/JessiPizzaApi">
-  [JessiPizzaApi](https://user-images.githubusercontent.com/74324460/226203723-540c3af9-baac-46d6-bfb2-caee20e791b9.jpg)
-
 
   </a>
+   [JessiPizzaApi](https://user-images.githubusercontent.com/74324460/226203723-540c3af9-baac-46d6-bfb2-caee20e791b9.jpg)
 </div>
 
 <div align="center">
