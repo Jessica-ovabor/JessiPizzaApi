@@ -17,7 +17,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Jessica-ovabor/JessiPizzaApi">
-  [pizza](https://user-images.githubusercontent.com/74324460/226203723-540c3af9-baac-46d6-bfb2-caee20e791b9.jpg)
+  [JessiPizzaApi](https://user-images.githubusercontent.com/74324460/226203723-540c3af9-baac-46d6-bfb2-caee20e791b9.jpg)
 
 
   </a>
@@ -188,7 +188,6 @@ This project was made possible by:
 [license-url]: https://github.com/Jessica-ovabor/JessiPizzaApi/blob/main/LICENSE.txt
 [twitter-shield]: https://img.shields.io/badge/-@jovabor-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/ze_austin
 [twitter-url]: https://twitter.com/jovabor
-[pizza](https://user-images.githubusercontent.com/74324460/226203723-540c3af9-baac-46d6-bfb2-caee20e791b9.jpg)
 [python]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
 [flask]: https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white
 [sqlite]: https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white
