@@ -17,7 +17,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Jessica-ovabor/JessiPizzaApi">
-    <img src=".![image](https://user-images.githubusercontent.com/74324460/226199650-d95ac024-e275-4ea1-9430-87a636d3266c.png) alt="Logo" width="90%" height="30%">
+    ![image](https://user-images.githubusercontent.com/74324460/226199650-d95ac024-e275-4ea1-9430-87a636d3266c.png)
   </a>
 </div>
 
