@@ -104,7 +104,7 @@ Creating this API helped me learn and practice:
 
 To use this API, follow these steps:
 
-1. Open the Heroku app on your browser: https://jessyspace.pythonanywhere.com
+1. Open the Python anywhere app on your browser: https://jessyspace.pythonanywhere.com
 
 2. Click 'auth' to reveal a dropdown menu of authentication routes
 
